@@ -23,7 +23,6 @@ Config.Kaupat = {
     },
     -- Add more shops here if needed
 }
-Config.DiscordWebhook = 'WEBHOOK HERE'-- webhook for logs
 
 -- Menu
 Config.icon = 'fa-solid fa-gun' -- menu icons
