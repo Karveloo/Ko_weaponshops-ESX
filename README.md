@@ -1,7 +1,11 @@
 Fivem esx gunshop with ox lib
+
 uses ox lib context menus
-logs
+
+discord logs
+
 easy to config can add as many shops you want from config
+
 optimized resmon idle 0.00 and in use 0.01-0.03
 
 
